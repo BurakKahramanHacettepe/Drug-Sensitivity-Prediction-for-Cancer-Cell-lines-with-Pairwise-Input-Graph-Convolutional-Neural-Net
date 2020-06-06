@@ -10,8 +10,7 @@ Colab Link For BreastCancer IC50 Predictions : [![Open In Colab](https://colab.r
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Deepchem](https://deepchem.readthedocs.io/en/latest/) - Open-Source Tools for Drug Discovery
+* [RdKit](https://www.rdkit.org/) - Open-Source Cheminformatics Software
 
 
