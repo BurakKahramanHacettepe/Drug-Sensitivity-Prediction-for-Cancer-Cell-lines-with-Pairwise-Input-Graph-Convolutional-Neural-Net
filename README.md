@@ -6,6 +6,7 @@ Automated prediction of the inhibiting activity of drugs (and drug candidate mol
 
 Colab Link For BreastCancer IC50 Predictions : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/100yzaq4fQv5cuot3QZBka7jg1pZuFkK9?usp=sharing)
 
+Colab Link For Featurizing Molecules : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1letxKjnSHW7-2ucs3SrTTXnlqtBoEaN0?usp=sharing)
 
 
 ## Built With
