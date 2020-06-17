@@ -8,6 +8,7 @@ Colab Link For BreastCancer IC50 Predictions : [![Open In Colab](https://colab.r
 
 Colab Link For Featurizing Molecules : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1letxKjnSHW7-2ucs3SrTTXnlqtBoEaN0?usp=sharing)
 
+Molecule Vectors: https://drive.google.com/file/d/1-78H4M7MFpfbDyRF2Tat-DPHrbzaWZ9Y/view
 
 ## Built With
 
