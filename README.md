@@ -4,6 +4,8 @@ Automated prediction of the inhibiting activity of drugs (and drug candidate mol
 
 ## Getting Started
 
+---
+
 Below there are 4 colab links for our project
 
 1.Colab Link For Featurizing Molecules : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IPLdajMGi6n0P9gwTNoavcVbv4Ww1cfK?usp=sharing)
@@ -12,7 +14,9 @@ Below there are 4 colab links for our project
 
 3.Colab Link For Encoding Cell line vectors : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BDo0jINRLVuW1r3u6U-BI8bQ-mouASoP?usp=sharing)
 
-Files that are larger then 100MB are below.
+---
+
+Files that are larger then 100MB are below.(rest can be found in git repository)
 
 Molecule Vectors: https://drive.google.com/file/d/1-78H4M7MFpfbDyRF2Tat-DPHrbzaWZ9Y/view
 
