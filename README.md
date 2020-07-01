@@ -4,11 +4,19 @@ Automated prediction of the inhibiting activity of drugs (and drug candidate mol
 
 ## Getting Started
 
-Colab Link For BreastCancer IC50 Predictions : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/100yzaq4fQv5cuot3QZBka7jg1pZuFkK9?usp=sharing)
+Below there are 4 colab links for our project
 
-Colab Link For Featurizing Molecules : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1letxKjnSHW7-2ucs3SrTTXnlqtBoEaN0?usp=sharing)
+1.Colab Link For Featurizing Molecules : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IPLdajMGi6n0P9gwTNoavcVbv4Ww1cfK?usp=sharing)
+
+2.Colab Link For Fully Connected Final NN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ID_Z0yL42l2bw9TuzsKmGnD0HLpulfdh?usp=sharing)
+
+3.Colab Link For Encoding Cell line vectors : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BDo0jINRLVuW1r3u6U-BI8bQ-mouASoP?usp=sharing)
+
+Files that are larger then 100MB are below.
 
 Molecule Vectors: https://drive.google.com/file/d/1-78H4M7MFpfbDyRF2Tat-DPHrbzaWZ9Y/view
+
+Final data : https://drive.google.com/file/d/1q8_qgsoYWT3-YpR0mpYJswbEllGliQ4G/view
 
 ## Built With
 
