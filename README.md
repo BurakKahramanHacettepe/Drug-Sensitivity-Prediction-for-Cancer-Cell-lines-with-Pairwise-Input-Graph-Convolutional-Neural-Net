@@ -44,7 +44,7 @@ Files that are larger then 100MB are below.(rest can be found in git repository)
 
 Automated prediction of the inhibiting activity of drugs (and drug candidate molecules) on highly resistant cancer cells is an important problem in biomedical research. It is not possible to complete this task solely by biological experiments due to extremely high dataset sizes (i.e., the combination of hundreds of different cancer cell types and billions of possible drug candidate molecules). In this project, a new approach is proposed to tackle this problem by modelling the cancer cell-lines in large scale using genomic and transcriptional features, together with drugs (and drug candidate molecules), and constructing a graph convolutional deep neural network architecture that accepts the features of both drugs and cell-lines at the input level and predicts the activity of the drug (in terms of the real lethal dose that kills the input cancer cell-line). The results of this study may identify potential molecules that can become effective drugs for certain cancer types in the future.
 
-## Report
+## Method
 
 ![ProjectDiagram](https://i.imgur.com/ILjKRP8.png)
 
