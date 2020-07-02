@@ -4,7 +4,7 @@
 
 Below there are 4 colab links for our project
 
-1. *Colab Link For Cell-Line Data Setup :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BDo0jINRLVuW1r3u6U-BI8bQ-mouASoP?usp=sharing)
+1. *Colab Link For Cell-Line Data Setup :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15xXZXPFaefLk2Fk8mKxuX3ULz3AALF49?usp=sharing)
 
 2. *Colab Link For Encoding Cell line vectors :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BDo0jINRLVuW1r3u6U-BI8bQ-mouASoP?usp=sharing)
 
