@@ -36,7 +36,7 @@ Files that are larger then 100MB are below.(rest can be found in git repository)
 
 | Student Number(s)                | Student Name(s)                                             |
 |----------------------------------|-------------------------------------------------------------|
-| 21627284<br>21627394<br>32401068 | Ezgi Naz GÜNGÖR<br>Ahmet Burak KAHRAMAN<br>Fatma Nisa HOPÇU |
+| 21627284<br>21627394<br>32401068 | Ezgi Naz GÜNGÖR<br>Ahmet Burak KAHRAMAN<br>Fatma Nisa HOPCU |
 | **Supervisor(s)**                 | **Company Representative(s)**                                   |
 | Asst. Prof. Dr. Tunca DOĞAN      |       
 
