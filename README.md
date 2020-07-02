@@ -4,9 +4,9 @@
 
 Below there are 4 colab links for our project
 
-1.1. Cell-Line Data Setup ipynb files can be found in repository
+0. Cell-Line Data Preprocessing ipynb files can be found in repository
 
-1.2. *Colab Link For Cell-Line Data Setup :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15xXZXPFaefLk2Fk8mKxuX3ULz3AALF49?usp=sharing)
+1. *Colab Link For Cell-Line Data Setup :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15xXZXPFaefLk2Fk8mKxuX3ULz3AALF49?usp=sharing)
 
 2. *Colab Link For Encoding Cell line vectors :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CWxLqr4RZcas22ywEbw1MOeuG16ndEJQ?usp=sharing)
 
