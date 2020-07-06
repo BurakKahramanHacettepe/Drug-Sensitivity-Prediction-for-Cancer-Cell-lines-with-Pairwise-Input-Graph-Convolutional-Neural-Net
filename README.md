@@ -10,7 +10,9 @@ Below there are 4 colab links for our project
 
 2. *Colab Link For Encoding Cell line vectors :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CWxLqr4RZcas22ywEbw1MOeuG16ndEJQ?usp=sharing)
 
-3. *Colab Link For Featurizing Molecules :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IPLdajMGi6n0P9gwTNoavcVbv4Ww1cfK?usp=sharing)
+3. *Colab Link For Featurizing Molecules(Supervised) :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IPLdajMGi6n0P9gwTNoavcVbv4Ww1cfK?usp=sharing)
+
+3.1 *Colab Link For Featurizing Molecules(Unsupervised) :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/141ULk1TEDTWlCUKuu_fvPFb45K1EOfzg?usp=sharing)
 
 4. *Colab Link For Fully Connected Final NN :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ID_Z0yL42l2bw9TuzsKmGnD0HLpulfdh?usp=sharing)
 
